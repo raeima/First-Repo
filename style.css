@@ -1,3 +1,17 @@
+#one {
+ background-color: #ff6ea3;
+ width: 50%;
+ height: 300px;
+ float: left;
+}
+
+#two {
+  background-color: #ffffff;
+  width: 50%;
+  height: 300px;
+  float: right;
+}
+
 body {
-  background-color: black;
+  background-color: #bb4ccb;
 }
